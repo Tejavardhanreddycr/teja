@@ -1,0 +1,6 @@
+<section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data.aos="fade-in">
+    <h1>N Shravan Reddy</h1>
+      <p> Chairman of <span class="typed" data-typed-items="N TECH "></span></p>
+    </div>
+  </section>
